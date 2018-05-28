@@ -1,0 +1,25 @@
+Metadata-Version: 2.0
+Name: pre-commit-hooks
+Version: 1.2.3
+Summary: Some out-of-the-box hooks for pre-commit.
+Home-page: https://github.com/pre-commit/pre-commit-hooks
+Author: Anthony Sottile
+Author-email: asottile@umich.edu
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Dist: flake8 (!=2.5.3)
+Requires-Dist: autopep8 (>=1.3)
+Requires-Dist: pyyaml
+Requires-Dist: six
+
+UNKNOWN
+
+
